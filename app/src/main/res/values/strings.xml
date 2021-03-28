@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hue_grid</string>
+    <string name="description">Hue grid is a single player puzzle in which the objective of the game
+    is to make all cells in a grid as the same color. When you click on a cell, the colour of each cell
+    in the same row or column, will change in a particular order.
+    </string>
+</resources>
